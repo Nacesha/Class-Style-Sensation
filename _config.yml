@@ -12,7 +12,6 @@
         }
         #style {
           background-color: rgb(240, 144, 218);
-          
         }
     </style>
     <body><div id="style">
