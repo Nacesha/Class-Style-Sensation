@@ -16,7 +16,7 @@
           width:50%;
           padding: 15px;
           margin: auto;
-          border:6px dashed rgb(52, 168, 168)
+          border:6px dashed rgb(13, 109, 122)
           }
     </style>
     <body><div id="style">
