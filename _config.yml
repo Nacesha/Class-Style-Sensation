@@ -12,7 +12,8 @@
         }
         #style {
           background-color: rgb(240, 144, 218);
-          width:50%; 
+          width:50%;
+          margin: auto:
           }
     </style>
     <body><div id="style">
