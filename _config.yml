@@ -7,9 +7,10 @@
     <style>
         body {
            background-color:rgb(10, 255, 255);
+           font-family:fantasy;
         }
         h1 {
-          font-family:fantasy;
+          
         }
     </style>
     <body>
