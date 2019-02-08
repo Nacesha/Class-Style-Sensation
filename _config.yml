@@ -9,10 +9,10 @@
            background-color:rgb(10, 255, 255);
            font-family:fantasy;
            font-size:30px;
-           text-align: center;
         }
         #style {
           background-color: rgb(240, 144, 218);
+          text-align: center;
         }
     </style>
     <body><div id="style">
