@@ -13,7 +13,7 @@
         #style {
           background-color: rgb(240, 144, 218);
           width:50%;
-          margin: auto:
+          padding: 15px;
           }
     </style>
     <body><div id="style">
