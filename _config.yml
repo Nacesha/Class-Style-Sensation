@@ -14,6 +14,8 @@
           background-color: rgb(240, 144, 218);
           width:50%;
           padding: 15px;
+          margin: 200px;
+          border:2px dashed rgb(52, 168, 168)
           }
     </style>
     <body><div id="style">
