@@ -4,7 +4,14 @@
         <meta charset="utf-8">
         <title>My Webpage</title>
     </head>
-    
+    <style>
+        body {
+           background-color:rgb(10, 255, 255);
+        }
+        h1 {
+          font-family:fantasy;
+        }
+    </style>
     <body>
         <h1>??????????????????</h1>
         <p> Do you want a Webpage for your small business but don't want to do all the work? Let me do it for you! All you have to do is follow the instructions below!</p>
