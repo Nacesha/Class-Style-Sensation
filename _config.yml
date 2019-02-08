@@ -12,15 +12,14 @@
         }
         #style {
           background-color: rgb(240, 144, 218);
-          width:50%;
-          align: center;
-        }
+          width:50%; 
+          }
     </style>
     <body><div id="style">
         <h1>THE CODE ARTIST</h1>
         <p> Do you want a Webpage for your small business but don't want to do all the work? Let me do it for you! All you have to do is follow the instructions below!</p>
         
-        <ol>
+        <ol  align="center">
             <li><img src="https://www.carolecgood.com/think-elec.jpg" width="100">Think of what you want on your webpage.</li>
             <li><img src="https://logos.flamingtext.com/Word-Logos/choose-design-sketch-name.png" width="100"> Choose some image's you want on you webpage</li>
             <li><img src="https://cdn.instructables.com/FL2/5KAS/I7MXEMQ0/FL25KASI7MXEMQ0.LARGE.jpg" width="100">Email it to me at Nacesha2004@gmail.com, such as... </li>
