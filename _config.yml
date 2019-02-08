@@ -4,21 +4,14 @@
         <meta charset="utf-8">
         <title>My Webpage</title>
     </head>
-    <style>
-        body {
-            background-color:rgb(10, 255, 255);
-        }
-        h1 {
-            font-family: fantasy;
-        }
-    </style>
+    
     <body>
-        <h1>????????????????</h1>
+        <h1>??????????????????</h1>
         <p> Do you want a Webpage for your small business but don't want to do all the work? Let me do it for you! All you have to do is follow the instructions below!</p>
         
         <ol>
-            <li><img src="https://www.carolecgood.com/think-elec.jpg" width="100">Think of what you want on you webpage.</li>
-            <li><img src="https://www.gadgetryblog.com/wp-content/uploads/2018/11/gmail_logomax-2800x2800.jpg" width="100">Email it to me at Nacesha2004@gmail.com, such as... </li>
+            <li><img src="https://www.carolecgood.com/think-elec.jpg">Think of what you want on your webpage.</li>
+            <li><img src="https://www.gadgetryblog.com/wp-content/uploads/2018/11/gmail_logomax-2800x2800.jpg">Email it to me at Nacesha2004@gmail.com, such as... </li>
         </ol>
         <ul>
             <li> what your business is...</li>
