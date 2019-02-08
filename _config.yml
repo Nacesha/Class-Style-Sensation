@@ -12,7 +12,7 @@
         }
         #style {
           background-color: rgb(240, 144, 218);
-          text-align: center;
+          width:50%;
         }
     </style>
     <body><div id="style">
