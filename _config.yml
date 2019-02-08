@@ -9,8 +9,8 @@
            background-color:rgb(10, 255, 255);
            font-family:fantasy;
            font-size:30px;
-           color: rgb(52, 168, 168);
-        }
+           color: rgb(13, 109, 122);
+          }
         #style {
           background-color: rgb(240, 144, 218);
           width:50%;
