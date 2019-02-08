@@ -1,1 +1,19 @@
-theme: jekyll-theme-architect
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>My Webpage</title>
+    </head>
+    <body>
+        <h1>????????????????</h1>
+        <p> Do you want a Webpage for your small business but don't want to do all the work? Let me do it for you! All you have to do is follow the instructions below!</p>
+        
+        <ol>
+            <li><img src="https://www.carolecgood.com/think-elec.jpg">Think of what you want on you webpage.</li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ol>
+
+    </body>
+</html>
